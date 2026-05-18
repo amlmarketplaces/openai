@@ -1,0 +1,79 @@
+{
+  "name": "openai",
+  "owner": {
+    "name": "Openai"
+  },
+  "description": "Claude Code marketplace federating every @amlplugins/openai-* plugin under a single marketplace source.",
+  "plugins": [
+    {
+      "name": "openai-assistants",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/openai-assistants.git"
+      }
+    },
+    {
+      "name": "openai-audio",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/openai-audio.git"
+      }
+    },
+    {
+      "name": "openai-batch",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/openai-batch.git"
+      }
+    },
+    {
+      "name": "openai-chat",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/openai-chat.git"
+      }
+    },
+    {
+      "name": "openai-embeddings",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/openai-embeddings.git"
+      }
+    },
+    {
+      "name": "openai-files",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/openai-files.git"
+      }
+    },
+    {
+      "name": "openai-fine-tuning",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/openai-fine-tuning.git"
+      }
+    },
+    {
+      "name": "openai-images",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/openai-images.git"
+      }
+    },
+    {
+      "name": "openai-moderations",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/openai-moderations.git"
+      }
+    },
+    {
+      "name": "openai-responses",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/openai-responses.git"
+      }
+    }
+  ]
+}
